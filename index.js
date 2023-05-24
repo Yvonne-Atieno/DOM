@@ -1,6 +1,6 @@
 document.getElementById("body").style.backgroundColor="silver";
-let h1Title=document.getElementById("title");
-h1Title.style.color="green";
+
+document.getElementById("title").style.color="green";
 
 document.getElementById("veges").style.textTransform="uppercase"
 document.getElementById("fruits").style.textTransform="uppercase"
